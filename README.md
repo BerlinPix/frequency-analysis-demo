@@ -10,7 +10,7 @@ You will find a live demo on: http://berlinpix.com/web-audio-api/frequency-analy
 
 I wrote a tutorial for it in german: http://berlinpix.com/blog/reader/items/frequenzanalyse-mit-html5-und-web-audio-api.html
 
-The demo is based on the tutorial from (smartjava.org)[http://www.smartjava.org/content/exploring-html5-web-audio-visualizing-sound]
+The demo is based on the tutorial from [smartjava.org](http://www.smartjava.org/content/exploring-html5-web-audio-visualizing-sound)
 
 
 
