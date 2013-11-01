@@ -2,7 +2,7 @@
 
 It's a demo for visualizing frequencies from audio files or your notebook microphone in the browser (Firefox 25+, Chrome) using the Web Audio API and HTML5 Audio.
 
-## LIVE DEMO
+## Live Demo
 
 You will find a live demo on: http://berlinpix.com/web-audio-api/frequency-analysis-demo/
 
